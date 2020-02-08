@@ -1,7 +1,7 @@
 # Android_App_using_pytorch
 # This App is build using Pytoch model for classification of Objects
 # Now let me break down all the steps which you require to make a App similar to this
-##First download Pytorch in your system
+## First download Pytorch in your system
 ### Go to this link https://pytorch.org/get-started/locally/
  - If You are having Anaconda Navigator installed in your system you can run this command on anaconda prompt 
   - conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
